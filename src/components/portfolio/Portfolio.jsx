@@ -30,17 +30,17 @@ const data = [
     demo: 'https://ileraeko.com'
   },
   {
-    id:4,
-    image: IMG4,
-    title: 'Human Resources Management System Application',
-    github: 'https://github.com',
-    demo: '#'
-  },
-  {
     id:5,
     image: IMG5,
     title: 'BlogApp-Api',
     github: 'https://github.com/NobulPlus/BlogApi-app.git',
+    demo: '#'
+  },
+  {
+    id:4,
+    image: IMG4,
+    title: 'Human Resources Management System Application',
+    github: 'https://github.com',
     demo: '#'
   },
   {
